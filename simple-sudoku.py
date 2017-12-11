@@ -89,7 +89,7 @@ def getPuzzle():
 	prompt= "Enter Row  of the problem\n"
 	p = ""
 	for i in range(9):
-		p += input(prompt[:11]+str(i+1)+prompt[11:])
+		p += input(prompt[:10]+str(i+1)+prompt[10:])
 	return p
 #main program method. mainly handles inputs
 def main():

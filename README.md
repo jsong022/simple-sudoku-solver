@@ -15,7 +15,8 @@ Written using Python 3.6.3
 - ./simple-sudoku.py ARG1 ARG2 ...
 	- Can take 1 or more 81-character Strings as arguments
 
-##### Sample Output
+### Sample Output
+###### (formatting not exact)
 \>\>./simple-sudoku.py 000260701680070090190004500820100040004602900050003028009300074040050036703018000
 solving....
 \-------------
